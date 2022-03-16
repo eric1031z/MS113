@@ -1,5 +1,5 @@
 # MS113
 
-Edit config.txt
+Edit Setting.txt
 
 Start with luancher after bypassing H-sheild
